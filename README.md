@@ -163,6 +163,8 @@ Query parameters and model are explain below, in 'Description Of Optionals Query
 
 ## Request and Response Format
 
+All request are received as json
+
 ## Authentication
 
 > In order to authenticat the alx movie app we are going to implement `if(!res.ok) {...}`to ensure datas are fetched effiecintly from the api also by ensuring correct page is displayed in the right route
@@ -172,3 +174,5 @@ Query parameters and model are explain below, in 'Description Of Optionals Query
 > We're going to implement the try catch method and use a conditional statement to ensure erorrs ar rendered in the right components
 
 ## Usage Limits and Best Practices
+
+500,000 entry point resquest per month and 1000 request per hour
