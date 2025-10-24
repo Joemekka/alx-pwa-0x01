@@ -4,7 +4,7 @@
 
 # version and state
 
-Version 1 of MoviesDatabase api
+Version ONE of MoviesDatabase api
 
 # Available Endpoints
 
